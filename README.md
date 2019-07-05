@@ -1,6 +1,4 @@
-# README #
-
-MaizeDIG
+# MaizeDIG: Maize Database of Images and Genomes #
 
 ### What is this repository for? ###
 
